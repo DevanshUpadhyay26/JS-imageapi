@@ -1,6 +1,7 @@
 # ImageViewers
 
 ImageViewers is a simple web application that allows users to search for images using the Unsplash API. The application provides a user-friendly interface to search and display images based on user queries.
+![image](https://github.com/DevanshUpadhyay26/JS-imageapi/assets/66689359/c5920bf9-3c30-45ab-a153-962636eab8ae)
 
 ## Features
 
